@@ -1,5 +1,5 @@
 <html>
-<header><title>Personal Information</title></header>
+<head><title>Personal Information</title></head>
 <body>
 Name: Francis Jomar G. Cervantes <br>
 Nickname: Francis<br>
