@@ -1,11 +1,11 @@
 # franciscervantes
 Personal Information
-Name: Fermin Roberto G. Lapitan 
-Nickname: Koy 
-Student Number: XXXX-40281 
-Provincial Address: 
-College Address: 
-Email Address: fglapitan@up.edu.ph 
-Contact Number: 
-Person to contact in case of emergency: 
-Contact Number:
+Name: Francis Jomar G. Cervantes  
+Nickname: Francis
+Student Number: 2015-08792 
+Provincial Address: Imus, Cavite
+College Address: New Dormitory
+Email Address: fgcervantes@up.edu.ph 
+Contact Number: 09053909428
+Person to contact in case of emergency: Marjorie Cervantes
+Contact Number: 09066982762
