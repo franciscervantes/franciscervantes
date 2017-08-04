@@ -1,6 +1,6 @@
 # franciscervantes
-Personal Information
-Name: Francis Jomar G. Cervantes  
+Personal Information<br>
+Name: Francis Jomar G. Cervantes <br>
 Nickname: Francis
 Student Number: 2015-08792 
 Provincial Address: Imus, Cavite
