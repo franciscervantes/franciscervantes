@@ -1,4 +1,6 @@
 <html>
+<header><title>Personal Information</title></header>
+<body>
 Personal Information<br>
 Name: Francis Jomar G. Cervantes <br>
 Nickname: Francis<br>
@@ -9,4 +11,5 @@ Email Address: fgcervantes@up.edu.ph<br>
 Contact Number: 09053909428<br>
 Person to contact in case of emergency: Marjorie Cervantes<br>
 Contact Number: 09066982762<br>
+<body>
 </html>
